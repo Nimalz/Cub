@@ -14,3 +14,8 @@
 ５．プレイヤーの操作感結構気持ち
 ６．プレイヤーとフィールドの描画順番をうまく処理したところ
 ７．力を入れたレベルデザイン
+
+
+実行ファイル：https://drive.google.com/file/d/1KyTj-xIE5b5o6U6aBmdJM8Zpf3qZjrOQ/view?usp=sharing
+紹介動画：https://www.youtube.com/watch?v=iFSoHxH6HfM
+
